@@ -31,4 +31,4 @@ The goal of this project was from the perspective of a Human Resources Analyst f
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
 
-•	With only 1,549 employees eligible for the mentorship program, it appears there may be a shortfall in meeting demand since not enough qualified retiring employees will be available to mentor the next generation that will fill the vacated roles. With the large number of retiring employees, each mentor would need to mentor approximately 58 employees, which is an unreasonable number for each mentor. 
+•	As there are only 1,549 employees eligible for the mentorship program, it appears there may be a shortfall in meeting demand since not enough qualified retiring employees will be available to mentor the next generation that will fill the vacated roles. With the large number of retiring employees, each mentor would need to mentor approximately 58 employees, which is an unreasonable number for each mentor. 
